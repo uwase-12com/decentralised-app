@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(64, 58, 70);
+}
+fieldset{
+    background-color: rgb(83, 23, 88);
+    font-weight: 80px;
+    margin-top: 90px;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+    border-radius: 5%;
+}
+label{
+    color: rgb(161, 141, 115);
+}
+input{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+button{
+    color: rgb(180, 25, 134);
+    width: 15%;
+}
